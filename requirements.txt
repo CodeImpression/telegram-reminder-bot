@@ -1,4 +1,6 @@
 python-telegram-bot==13.15
-Flask
-apscheduler
-pytz
+apscheduler==3.6.3
+flask==2.3.2
+pytz==2025.2
+urllib3==2.0.3
+six==1.17.0
